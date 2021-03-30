@@ -52,7 +52,7 @@ npm install moment
 npm install path
 npm install fs
 
-# And if you still have issues, join the Discord. #
+# And if you still have issues, join the Discord.
 ```
 After cloning the project and installing all dependencies, you need to fill out the `config.js` file.
 
