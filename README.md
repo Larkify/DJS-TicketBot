@@ -8,15 +8,15 @@
          alt="Discord">
   </a>
   <a href="https://github.com/larkify/djs-ticketbot/">
-    <img src="https://img.shields.io/github/issues/larkify/djs-ticketbot?style=for-the-badge"
+    <img src="https://img.shields.io/github/issues/larkify/DJS-TicketBot?style=for-the-badge"
          alt="Open Issues">
   </a>
   <a href="https://github.com/Larkify/djs-ticketbot">
-    <img src="https://img.shields.io/github/license/larkify/djs-ticketbot?color=%23D68AFF&style=for-the-badge"
+    <img src="https://img.shields.io/github/license/larkify/DJS-TicketBot?color=%23D68AFF&style=for-the-badge"
          alt="License">
   </a>
    <a href="https://github.com/Larkify/djs-ticketbot">
-    <img src="https://img.shields.io/github/last-commit/larkify/djs-ticketbot?style=for-the-badge"
+    <img src="https://img.shields.io/github/last-commit/larkify/DJS-TicketBot?style=for-the-badge"
          alt="Last Commit">
   </a>
 </p>
