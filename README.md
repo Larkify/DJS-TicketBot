@@ -28,7 +28,7 @@
 </p>
 
 ## Information
-So I made this simple and quite incomplete ticket bot, there are a lot of rough patches and it's best you have a basic understanding of navigating through a JavaScript file so you can make it work for you. If you have any issues, join my discord server and I'll see if I can help.
+So I made this simple and quite incomplete ticket bot, there are a lot of rough patches and it's best you have a basic understanding of navigating through a JavaScript file so you can make it work for you. If you have any issues, join my discord server and I'll see if I can help. I won't be providing loads of support for this though, as it was just a bot for another server and I thought I'd share it with you on GitHub just incase you want to use some of the code in it.
 
 ## Requirements
 
